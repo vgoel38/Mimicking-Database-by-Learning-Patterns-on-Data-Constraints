@@ -1,4 +1,3 @@
 # Mimicking-Database-by-Learning-Patterns-on-Data_constraints
-Machine Learning mini-project at IISc
 
-Please find the project report [ML_Report.pdf] and the project presentation [ML_PPT.pdf] above.
+Please find the project report [ProjectReportMDLPDC.pdf] above.
